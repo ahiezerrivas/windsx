@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url("https://windsx.googlecode.com/svn/HelveticaNeue-Light.woff") format("truetype");
+    font-weight: 300;
+    font-size: 100px;
+}
+@font-face {
+    font-family: 'HelveticaNeue Medium';
+    src: url("https://windsx.googlecode.com/svn/HelveticaNeue-Medium.woff") format("truetype");
+    font-weight: 300;
+    font-size: 100px;
+}
